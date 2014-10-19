@@ -2,7 +2,7 @@ PokerStars_Hack_Window_Colors
 =============================
 
 <b>That is something  i did a long time ago as a challenge . As you will see the code is undocumented because really i did not think i could make it :) .But i decided to make it public because there are not many examples doing what i did and it may help someone.<b>
-================================================================================================================================<br>
+
 The goal of this hack was to be able to alert the player that a pokerstars table needs his attention more than the others.<br>
 I did that by setting a colored   rectangle on the pokerstars table .<br>
 A red rectangle would mean that you should give the table more attention , a green would mean something other etc.<br>
