@@ -3,9 +3,9 @@ PokerStars_Hack_Window_Colors
 
 <b>That is something  i did a long time ago as a challenge . As you will see the code is undocumented because really i did not think i could make it :) .But i decided to make it public because there are not many examples doing what i did and it may help someone.<b>
 
-<b>Important<b>
-->IT seems that with the new pokerstars updates this program does not work fully<-
-->The hand history log has changed and i think they name their processes with different names<-
+<b>Important</b><br>
+->IT seems that with the new pokerstars updates this program does not work fully<-<br>
+->The hand history log has changed and i think they name their processes with different names<-<br>
 
 The goal of this hack was to be able to alert the player that a pokerstars table needs his attention more than the others.<br>
 I did that by setting a colored   rectangle on the pokerstars table .<br>
