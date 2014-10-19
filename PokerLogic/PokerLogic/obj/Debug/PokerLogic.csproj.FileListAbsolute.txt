@@ -1,0 +1,6 @@
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\bin\Debug\PokerTable Helper.exe.config
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\obj\Debug\PokerLogic.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\bin\Debug\PokerTable Helper.exe
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\bin\Debug\PokerTable Helper.pdb
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\obj\Debug\PokerTable Helper.exe
+C:\Users\George\Desktop\PokerTable\PokerLogic\PokerLogic\obj\Debug\PokerTable Helper.pdb
